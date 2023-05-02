@@ -4,5 +4,7 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - pandas
-  - bqplot
+  - ipydatagrid
+  - ipympl
+  - ipyleaflet
   - altair
