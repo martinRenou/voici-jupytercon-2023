@@ -7,4 +7,5 @@ dependencies:
   - ipydatagrid
   - ipympl
   - ipyleaflet
-  - altair
+  - altair=4.2.0
+  - jsonschema=4.17.0
