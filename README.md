@@ -4,4 +4,4 @@
 
 ## ✨ Our slides ✨
 
-https://martinrenou.github.io/voici-jupytercon-2023/voici
+https://martinrenou.github.io/voici-jupytercon-2023/voici/render/main.html
